@@ -1,4 +1,4 @@
-# node-todo-cicd
+# node-todo
 
 sudo apt install nodejs
 sudo apt install npm
