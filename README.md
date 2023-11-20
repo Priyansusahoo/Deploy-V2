@@ -1,4 +1,5 @@
-# Deployment of end-to-end application in node.js using Jenkins CICD with GitHub Integration
+# Deployment of end-to-end application in node.js using Jenkins CICD, Docker and AWS EC2 with GitHub Integration
+# Step-By-Step Instructions to Setup the Project:
 
 ---
 
