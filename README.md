@@ -1,6 +1,11 @@
 # Deployment of end-to-end application in node.js using Jenkins CICD, Docker, and AWS EC2 with GitHub Integration.
+### Task/Achievements:
+- Developed a Jenkins Continuous Integration and Continuous Deployment (CICD) Pipeline for a web application, streamlining the deployment process and improving efficiency.
+- Implemented automation using webhooks in GitHub, enabling automatic triggers for the CICD pipeline upon code changes, reducing manual intervention, and accelerating the deployment process.
+- Gained hands-on experience with Docker, Jenkins, and AWS-EC2, enhancing proficiency in DevOps practices and cloud technologies.
 
-# :point_right: Step-By-Step Instructions to Setup the Project:
+
+# Step-By-Step Instructions to Setup the Project:
 
 ---
 
